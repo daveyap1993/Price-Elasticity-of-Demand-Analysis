@@ -1,4 +1,6 @@
 # Price-Elasticity-of-Demand-Analysis
+How to maximize profit?
+
 This project is the gentle introduction of Price Elasticity of Demand Analysis with Regression Analysis to estimate Price Elasticity of Demand(PED).
 
 In marketing, it is important to measure how sensitive consumers are to a change in price of a product. The marketing managers must give answers to below questions such as:
